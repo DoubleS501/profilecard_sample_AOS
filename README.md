@@ -85,10 +85,10 @@ val adjustedPitch = pitch.value * 0.1f
 ```
 [
   {
-    "name": "김민수",
+    "name": "민수",
     "stack": "Android, Kotlin",
-    "mbti": "ENTP",
-    "imagePath": "ssafy1.png"
+    "mbti": "ENFJ",
+    "imagePath": "profile.png"
   }
 ]
 ```
