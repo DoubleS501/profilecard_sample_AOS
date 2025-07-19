@@ -1,4 +1,4 @@
-# 📱 GyroCard Sample App
+# 📱 ProfileCard Sample App
 
 자이로 센서를 활용해 사용자의 핸드폰 기울기에 따라 카드가 움직이는 Android Jetpack Compose 기반 샘플 앱입니다.
 
